@@ -1,1 +1,1 @@
-sh /root/backup_foreman.sh test346
+sh /root/backup_foreman.sh myvm
