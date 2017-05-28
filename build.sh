@@ -1,1 +1,1 @@
-sh /root/backup_foreman.sh myvm123456
+sh /root/backup_foreman.sh myfirstvm007
