@@ -1,1 +1,1 @@
-sh /root/backup_foreman.sh myfirsttest0002
+sh /root/backup_foreman.sh helloworld98
