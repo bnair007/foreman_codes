@@ -1,1 +1,1 @@
-sh /root/backup_foreman.sh hellomyvm
+sh /root/backup_foreman.sh bijithvm
