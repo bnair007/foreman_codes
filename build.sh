@@ -1,1 +1,1 @@
-sh /root/backup_foreman.sh Mytest
+sh /root/backup_foreman.sh hellomyvm
