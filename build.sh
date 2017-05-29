@@ -1,1 +1,1 @@
-sh /root/backup_foreman.sh bijithvm
+sh /root/backup_foreman.sh myfirsttest0002
